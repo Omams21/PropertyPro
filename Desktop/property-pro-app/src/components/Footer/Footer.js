@@ -5,16 +5,16 @@ export default function Footer() {
   return (
     <div className="footer">
       <div className="footer-first-child">
-        <span className="ab">ABOUT US</span>
-        <span className="abc">CONTACT US</span>
+        <span className="about">ABOUT US</span>
+        <span className="contact">CONTACT US</span>
       </div>
       <div className="footer-second-child">
         <span className="copyright"> COPYRIGHT</span>
         <span className="preference"> COOKIE PREFERENCE</span>
       </div>
       <div className="footer-third-child">
-        <span className="h"> HELP</span>
-        <span className="b">BLOG</span>
+        <span className="help"> HELP</span>
+        <span className="blog">BLOG</span>
       </div>
     </div>
   );

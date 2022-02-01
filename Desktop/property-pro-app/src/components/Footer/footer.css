@@ -22,7 +22,7 @@
   margin-right: 20px;
 }
 
-.abc {
+.contact {
   margin-left: 40px;
 }
 
@@ -38,7 +38,7 @@
     font-style: arial black;
   }
 
-  .abc {
+  .contact {
     margin-right: 60px;
   }
   .copyright {
@@ -49,10 +49,10 @@
     margin-right: 80px;
     display: flex;
   }
-  .h {
+  .help {
     margin-right: 80px;
   }
-  .b {
+  .blog {
     display: block;
     margin-right: 40px;
   }
