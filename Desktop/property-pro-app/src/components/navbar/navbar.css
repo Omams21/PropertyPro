@@ -20,10 +20,10 @@
   margin-right: 10px;
 }
 
-.companyLogo {
+.company-logo {
   display: flex;
 }
-.companyLogo > i {
+.company-logo > i {
   font-size: 30px;
   color: white;
 }
@@ -64,10 +64,10 @@
     color: blue;
   }
 
-  .companyLogo {
+  .company-logo {
     margin-left: 100px;
   }
-  .companyLogo > i {
+  .company-logo > i {
     font-size: 45px;
     color: blue;
     font: Georgia (serif);

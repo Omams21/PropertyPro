@@ -12,17 +12,17 @@
 .footer-second-child {
   display: flex;
 }
-.Preference {
+.Preference-link {
   display: none;
 }
-.b {
+.blog-link {
   display: none;
 }
-.copyright {
+.copyright-link {
   margin-right: 20px;
 }
 
-.contact {
+.contact-link {
   margin-left: 40px;
 }
 
@@ -38,21 +38,21 @@
     font-style: arial black;
   }
 
-  .contact {
+  .contact-link {
     margin-right: 60px;
   }
-  .copyright {
+  .copyright-link {
     margin-right: 80px;
   }
-  .preference {
+  .preference-link {
     display: block;
     margin-right: 80px;
     display: flex;
   }
-  .help {
+  .help-link {
     margin-right: 80px;
   }
-  .blog {
+  .blog-link {
     display: block;
     margin-right: 40px;
   }

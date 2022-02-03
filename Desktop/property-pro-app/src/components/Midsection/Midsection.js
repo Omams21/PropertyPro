@@ -8,23 +8,21 @@ export default function Midsection() {
         <div className="buy">
           <div className="icon">
             <img
-              src="https://img.icons8.com/carbon-copy/100/000000/home.png"
-              alt="house.img"
+              src="/assets/home-icon.png" 
+              alt="home"
             />
           </div>
           <div className="middleheader">
             <p className="caption">
-              {" "}
-              <b> BUY A HOME </b>{" "}
+              <b> BUY A HOME </b>
             </p>
             <p>
-              {" "}
               Find your place with an immersive photo and top listing, including
               things you won't find anywhere else.
             </p>
           </div>
           <div className=" search">
-            <button className="searchbutton">Search Home </button>
+            <button className="search-button">Search Home </button>
           </div>
         </div>
       </div>
@@ -32,16 +30,16 @@ export default function Midsection() {
       <div className="boxcontainer">
         <div className="buy">
           <div className="icon">
-            {" "}
+          
             <img
-              src="https://img.icons8.com/carbon-copy/100/000000/home.png"
-              alt="house.img"
-            />{" "}
+              src="/assets/home-icon.png"
+              alt="home"
+            />
           </div>
           <div className="middleheader">
             <p className="caption">
-              {" "}
-              <b> RENT A HOME </b>{" "}
+              
+              <b> RENT A HOME </b>
             </p>
             <p>
               We're creating a seamless online experience from shopping on the
@@ -58,14 +56,13 @@ export default function Midsection() {
         <div className="buy">
           <div className="icon">
             <img
-              src="https://img.icons8.com/carbon-copy/100/000000/home.png"
-              alt="house.img"
+              src="/assets/home-icon.png"
+              alt="home"
             />
           </div>
           <div className="middleheader">
             <p className="caption">
-              {" "}
-              <b> SELL A HOME</b>{" "}
+              <b> SELL A HOME</b>
             </p>
             <p>
               No matter what path you take to sell your home, we can help you

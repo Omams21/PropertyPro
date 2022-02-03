@@ -8,11 +8,9 @@ const Navbar = () => {
     <nav id="header">
       <div className="navbar-link-first-child">
         <span className="navbar-link ">
-          {" "}
           <Link to="/buy">BUY</Link>
         </span>
         <span className="navbar-link ">
-          {" "}
           <Link to="/rent">RENT</Link>
         </span>
         <span className="navbar-link ">
