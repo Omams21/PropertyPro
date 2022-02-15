@@ -6,14 +6,14 @@
   border: 1px solid gray;
 }
 
-.firstcontainer {
+.first-container {
   justify-content: center;
   flex-direction: column;
   display: flex;
   margin-top: 30px;
 }
 .sign {
-  font-size: 16px;
+  font-size: 1rem;
   font-style: italic;
 }
 
@@ -22,7 +22,7 @@
   padding: 5px;
 }
 
-#agentver {
+#agent-verification {
   cursor: pointer;
 }
 
@@ -50,7 +50,7 @@
   }
 
   .apple > i {
-    font-size: 20px;
+    font-size: 1.25;
     margin-left: 15px;
     margin-right: 35px;
     color: white;
@@ -85,7 +85,7 @@
     margin: 5px;
   }
   .facebook > i {
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-left: 15px;
     margin-right: 35px;
     color: white;
@@ -105,7 +105,7 @@
   }
 
   .google > i {
-    font-size: 20px;
+    font: size 1.25rem;;
     margin-left: 15px;
     margin-right: 35px;
     color: black;
