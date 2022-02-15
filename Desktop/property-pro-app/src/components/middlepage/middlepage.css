@@ -1,0 +1,43 @@
+.middlepage {
+  height: 55vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.change {
+  font-size: x-large;
+  color: whitesmoke;
+  font-style: oblique;
+  margin-top: 30px;
+}
+
+.search-input-field {
+  width: 100%;
+  padding: 10px 10px;
+  margin-top: 5px;
+}
+
+#search {
+  z-index: 999;
+}
+
+@media screen and (min-width: 768px) {
+  .middlepage {
+    height: 85vh;
+    width: 100%;
+    background: url("/public/assets/image33.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .middlepage::after {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 85vh;
+    width: 100%;
+    background-color: black;
+    opacity: 0.45;
+  }
+}
