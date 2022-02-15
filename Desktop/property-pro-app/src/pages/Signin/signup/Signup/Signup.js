@@ -9,7 +9,7 @@ export default function Signup() {
           <i class="fa fa-home" aria-hidden="true"></i>
           <span className="name">PropertyPro</span>
         </div>
-        <div className=" firstcontainer">
+        <div className=" first-container">
           <h2 name="sign"> Sign Up</h2>
           <p> Please fill in this form, if you are an agent.</p>
           <hr />
@@ -45,7 +45,7 @@ export default function Signup() {
               name="verification"
               value=" verification"
             />
-            <label for="agentver"> I am a landlord or house agent </label>
+            <label for="agent-verification"> I am a landlord or house agent </label>
           </span>
           <button class="btn ">Submit</button>
 
@@ -54,7 +54,7 @@ export default function Signup() {
           </p>
         </div>
         <hr></hr>
-        <div className="secondcontainer">
+        <div className="second-container">
           <p className="connect"> Or Connect With : </p>
           <div className="apple">
             <i class="fa fa-apple"></i>

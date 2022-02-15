@@ -4,31 +4,31 @@
 }
 
 .companyLogo > i {
-  font-size: 30px;
+  font-size: 1.875rem;
   color: blue;
   font: Georgia (serif);
 }
 .name {
   color: blue;
   font-style: Georgia (serif);
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 @media screen and (min-width: 768px) {
   .companyLogo {
     margin-left: 80px;
   }
   .companyLogo > i {
-    font-size: 45px;
+    font-size: 2.8125rem;
     color: blue;
     font: Georgia (serif);
   }
   .name {
     color: blue;
     font-style: Georgia (serif);
-    font-size: 30px;
+    font-size: 1.875rem;
   }
 }
-.signinwrap {
+.signin-wrap {
   width: 30%;
   margin: 20px auto;
   height: 80vh;
@@ -36,7 +36,7 @@
   padding: 20px;
 }
 
-.firstcontainer {
+.first-container {
   justify-content: center;
   flex-direction: column;
   display: flex;
@@ -44,10 +44,10 @@
   margin-top: 30px;
 }
 .sign {
-  font-size: 16px;
+  font-size: 1rem;
   font-style: italic;
 }
-.top {
+.top-holder {
   margin-bottom: 15px;
   padding: 5px;
 }
@@ -72,13 +72,12 @@
   margin: 5px;
 }
 
-.secondcontainer {
+.second-container {
   justify-content: center;
   flex-direction: column;
   display: flex;
   margin-bottom: 30px;
   margin-top: 15px;
-  /* padding: 10px; */
 }
 
 .connect {
@@ -94,7 +93,7 @@
   cursor: pointer;
 }
 .apple > i {
-  font-size: 20px;
+  font-size: 1.25rem;
   margin-left: 15px;
   margin-right: 35px;
   color: white;
@@ -149,7 +148,7 @@
 }
 
 .google > i {
-  font-size: 20px;
+  font-size: 1.25rem;
   margin-left: 15px;
   margin-right: 35px;
   color: black;
